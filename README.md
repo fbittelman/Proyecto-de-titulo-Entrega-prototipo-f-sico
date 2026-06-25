@@ -12,33 +12,7 @@ La versión documentada corresponde al diseño **As Built**, es decir, la config
 
 El sistema está compuesto por una estructura principal fabricada mayoritariamente mediante impresión 3D, un circuito hidráulico con mangueras y flexibles, bombas, fittings comerciales, una válvula de servicio, un growler, un tanque de recirculación y un intercambiador de calor de cobre.
 
-## Estructura del repositorio
 
-```text
-.
-├── CAD/
-│   ├── Ensamble_general/
-│   ├── Componentes/
-│   └── Exportados_STEP_STL/
-│
-├── Planos/
-│   ├── Ensamble_general.pdf
-│   └── Planos_fabricacion/
-│
-├── Informe/
-│   └── Informe_3_PDT_GRUPO_7.pdf
-│
-├── Simulaciones/
-│   ├── Perdidas_de_carga/
-│   ├── Monte_Carlo/
-│   └── Graficos/
-│
-├── Imagenes/
-│   ├── Prototipo_final/
-│   └── Registro_fabricacion/
-│
-└── README.md
-```
 
 ## Archivos CAD
 
